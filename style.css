@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #343a40;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #343a40;
+    padding: 10px 0;
+    color: #fff;
+}
+
+/* Additional styles for the navbar */
+.navbar {
+    box-shadow: 0 4px 6px -6px #222;
+}
+
+/* Styles for the contact section */
+#contact h2 {
+    color: #fff;
+}
+#contact label {
+    color: #fff;
+}
+
+/* Custom class for purple color */
+.bg-purple {
+    background-color: #6f42c1; /* Фіолетовий колір */
+}
+
+/* Styles for the footer icons */
+footer a {
+    color: #fff;
+    margin-right: 10px;
+}
+
+footer a:hover {
+    color: #d3d3d3;
+}
